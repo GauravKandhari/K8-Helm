@@ -23,5 +23,5 @@ I] To take our application to run in production environment we  take following a
    (iii) Testing [ Selenium, Cucumber ]
    (iv)  Deployment [ Ansible, SALTSTACK ]
    (v)   Monitoring [ NAGIOS, Prometheus, Grafana ]
-
-
+ 
+   (v)  Configuring SSL for nginx server.
